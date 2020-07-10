@@ -1,5 +1,7 @@
 ### Hi there 👋
+:boom: ==yes!! Finally I got this cool new profile too!!== :boom:
 
+:grin:
 <!--
 **BlueZora/BlueZora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
